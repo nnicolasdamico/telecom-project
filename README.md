@@ -14,5 +14,4 @@ Some of the key findings include:
   after 60 months is very low.
 
 
-
-Theese findings provide valuable insights into customer behavior and can inform strategies to reduce churn and optimize revenue generation. Further analysis and modeling may be conducted to develop actionable recommendations based on these observations.
+  Theese findings provide valuable insights into customer behavior and can inform strategies to reduce churn and optimize revenue generation. Further analysis and modeling may be conducted to develop actionable recommendations based on these observations.
