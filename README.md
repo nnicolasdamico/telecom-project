@@ -12,4 +12,4 @@ Some of the key findings include:
 - Customers tend to stay beyond the 60-month mark, while most churns occur within the first 5 months.
 - Most churns happen in the early months, typically with lower charges. As the months progress, those with higher charges tend to churn, but the number of churns 
   after 60 months is very low.
-These findings provide valuable insights into customer behavior and can inform strategies to reduce churn and optimize revenue generation. Further analysis and modeling may be conducted to develop actionable recommendations based on these observations.
+  These findings provide valuable insights into customer behavior and can inform strategies to reduce churn and optimize revenue generation. Further analysis and modeling may be conducted to develop actionable recommendations based on these observations.
