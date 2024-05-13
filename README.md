@@ -3,9 +3,13 @@ Using a variety of data analysis techniques to explore and understand the datase
 The "Telecom Customer Churn" Dataset includes information on:
 
 Customer behavior: Whether a customer churned (left the company) or not, as well as the number of months they were a customer (tenure).
+
 Service usage: The services that each customer has subscribed to, such as phone service, multiple phone lines, internet service, online security, online backup, device protection, technical support, streaming TV, and streaming movies.
+
 Account information: Details about the customer's account, such as whether they have a contract, their payment method, whether they have paperless billing, their monthly charges, and their total charges.
+
 Demographic information: Personal characteristics of the customer, such as their gender, age group, whether they have a partner, and whether they have dependents.
+
 This dataset can be used to analyze factors that contribute to customer churn and develop strategies to retain customers.
 
 Some of the key findings include:
